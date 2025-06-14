@@ -6,7 +6,7 @@
 
 # 使用方法
 
-下载exe程序，直接双击即可开始记录
+从 [发行版](https://github.com/sorenchiron/battery-track/releases) 中下载exe程序，直接双击即可开始记录
 
 # 功能特性
 1. 记录存放为“今日日期.csv”
